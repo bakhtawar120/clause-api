@@ -1,18 +1,1 @@
-
-# OS / editor
-.DS_Store
-.vscode/
-.idea/
-
-# Python
-__pycache__/
-*.py[oc]
-.ipynb_checkpoints/
-
-# Secrets
 .env
-.play
-.venv
-# Node (web)
-node_modules/
-.next/
